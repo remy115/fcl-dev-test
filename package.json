@@ -1,0 +1,14 @@
+{
+  "name": "fcl-dev-test",
+  "version": "1.0.0",
+  "description": "Test p/ vaga",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Remy Ponso Barbosa Barros",
+  "license": "ISC",
+  "dependencies": {
+    "parse-cli-arguments": "^1.0.1"
+  }
+}
